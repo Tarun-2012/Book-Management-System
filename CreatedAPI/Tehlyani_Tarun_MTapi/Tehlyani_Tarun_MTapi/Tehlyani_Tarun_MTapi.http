@@ -1,0 +1,6 @@
+@Tehlyani_Tarun_MTapi_HostAddress = http://localhost:5194
+
+GET {{Tehlyani_Tarun_MTapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

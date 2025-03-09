@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tehlyani_Tarun_MTapi.props" />
+</Project>
